@@ -5,8 +5,8 @@ import { styles } from "./styles";
 
 export function Copyright() {
   return (
-    <View style={styles.container}>
-      <Text>Opa</Text>
+    <View>
+      <Text style={styles.text}>Feito com 💟 pela Rocketseat</Text>
     </View>
   );
 }
