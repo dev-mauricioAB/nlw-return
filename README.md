@@ -21,7 +21,7 @@ No frontend utilizamos Vite para criar a aplicação, e o framework ReactJS foi 
 
 A parte mobile foi feita com ReactNative, o que nos permitiu aproveitar muitos conhecimentos, visto que é um framework que utiliza dos conceitos do ReactJS como sua base, tornando a curva de aprendizado mais curta.
 
-E a cereja do bolo: deploy automatizado do frontend e do backente, utilizando Vercel e Railway, respectivamente. Foi incrível!
+E a cereja do bolo: deploy automatizado do frontend e do backend, utilizando Vercel e Railway, respectivamente. Foi incrível!
 
 As aulas da trilha impulse foram ministradas por [Diego Fernandes](https://github.com/diego3g) e [Rodrigo](https://github.com/rodrigorgtic). 🚀
 
