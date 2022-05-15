@@ -13,7 +13,6 @@
 ![image](https://user-images.githubusercontent.com/71537090/167278997-56d6c6a9-e477-4910-b512-23feb2fff54f.png)
 
 ## 🏄 Sobre o Projeto
-
 Este projeto foi feito juntamente com a equipe da [Rocketseat](https://rocketseat.com.br) no evento Next Level Week Heat, que esta na sua 8ª edição. Nela desenvolvemos um widget para ser instalado e utilizado em diferentes aplicações, com o objetivo de coletar feedbacks dos usuários e envia-los por email ao administrador da aplicação.
 
 No back end utilizamos NodeJS, sempre focando nas melhores praticas quanto a TDD e DDD. Podemos também explorar as funcionálidades do Prisma para lidar com o banco de dados, e gerar migrations para mantes sempre atualizadas as informações das tabelas de forma versionada e organizada.
@@ -27,12 +26,10 @@ E a cereja do bolo: deploy automatizado do frontend e do backente, utilizando Ve
 As aulas da trilha impulse foram ministradas por [Diego Fernandes](https://github.com/diego3g) e [Rodrigo](https://github.com/rodrigorgtic). 🚀
 
 ## 🔎 Demonstração
-
 <img alt="Application demo GIF" src=".github/demo.gif">
 
 ## 🎲 Executando o projeto
 ### 🦕 Backend
-
 ```bash
 # Clone este repositório
 $ git clone https://github.com/dev-mauricioAB/nlw-return
@@ -75,7 +72,7 @@ $ yarn
 # Execute a aplicação
 $ yarn start
 ```
-<br>
+
 ## 🛠️ Tecnologias utilizadas
 
 <h3 align="center">🖥️ Front-End</h3>
