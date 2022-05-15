@@ -30,7 +30,6 @@ As aulas da trilha impulse foram ministradas por [Diego Fernandes](https://githu
 
 <img alt="Application demo GIF" src=".github/demo.gif">
 
-<br>
 ## 🎲 Executando o projeto
 ### 🦕 Backend
 
