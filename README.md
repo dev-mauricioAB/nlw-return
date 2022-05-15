@@ -26,10 +26,11 @@ E a cereja do bolo: deploy automatizado do frontend e do backente, utilizando Ve
 
 As aulas da trilha impulse foram ministradas por [Diego Fernandes](https://github.com/diego3g) e [Rodrigo](https://github.com/rodrigorgtic). 🚀
 
-### 🔎 Demonstração
+## 🔎 Demonstração
 
 <img alt="Application demo GIF" src=".github/demo.gif">
 
+<br>
 ## 🎲 Executando o projeto
 ### 🦕 Backend
 
@@ -75,7 +76,7 @@ $ yarn
 # Execute a aplicação
 $ yarn start
 ```
-
+<br>
 ## 🛠️ Tecnologias utilizadas
 
 <h3 align="center">🖥️ Front-End</h3>
@@ -241,6 +242,6 @@ $ yarn start
     </tr>
   </tbody>
 </table>
-
+<br>
 ### 📝 Licença
 Esse projeto está sob a licença MIT.
