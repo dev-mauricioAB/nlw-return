@@ -75,7 +75,7 @@ $ yarn start
 
 ## 🛠️ Tecnologias utilizadas
 
-<h3 align="center">🖥️ Front-End</h3>
+<h3>🖥️ Front-End</h3>
 
 <table>
   <tbody>
@@ -238,6 +238,6 @@ $ yarn start
     </tr>
   </tbody>
 </table>
-<br>
+
 ### 📝 Licença
 Esse projeto está sob a licença MIT.
