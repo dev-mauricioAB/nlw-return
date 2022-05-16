@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/static/v1?label=node&message=16.15.2&color=339933&logo=node.js" />
   <img src="https://img.shields.io/static/v1?label=react&message=18.0.1&color=61DAFB&logo=react" />
   <img src="https://img.shields.io/static/v1?label=react%20native&message=45.0.0&color=0088CC&logo=reactos" />
-  <img src="https://img.shields.io/badge/last%20commit-october-important" />
+  <img src="https://img.shields.io/badge/last%20commit-may-important" />
   <img src="https://img.shields.io/badge/license-MIT-success"/>
 </p>
 
